@@ -15,13 +15,13 @@ The platform consists of four interconnected applications:
 ### 2. [Laptop Analyzer](https://github.com/SlayerK15/laptop_analyzer)
 - Data cleaning and preprocessing engine
 - Standardizes and validates crawled data
-- Prepares clean dataset for dashboard and recommender
+- Prepares clean dataset for dashboard and recommender(currently manaul)
 - Status: ✅ Complete
 
 ### 3. [Laptop Crawler](https://github.com/SlayerK15/Laptop_Crawler)
 - Web scraping tool for collecting laptop data
 - Extracts specifications from online retailers
-- Built with Python and Scrapy
+- Built with Python
 - Status: ✅ Complete
 
 ### 4. Laptop Recommender
@@ -95,7 +95,7 @@ The standardized data includes:
 
 ## Links
 
-- [Frontend Dashboard](https://github.com/SlayerK15/laptop_analyzer)
+- [Frontend Dashboard](Coming Soon)
 - [Data Analyzer](https://github.com/SlayerK15/laptop_analyzer)
 - [Web Crawler](https://github.com/SlayerK15/Laptop_Crawler)
 - Recommender System (Coming Soon)
