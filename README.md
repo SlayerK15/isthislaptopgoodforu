@@ -6,7 +6,7 @@ A comprehensive platform to crawl, analyze, and recommend laptops based on user 
 
 The platform consists of four interconnected applications:
 
-### 1. [Laptop Dashboard](https://github.com/SlayerK15/laptop_analyzer) 
+### 1. [Laptop Dashboard]
 - Frontend web application for visualizing laptop data
 - Interactive user interface for comparing specifications 
 - Built with React and Node.js
